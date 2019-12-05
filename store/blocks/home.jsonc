@@ -1,5 +1,11 @@
 {
   "store.home": {
-    "blocks": ["dkajsbnkdj"]
+    "blocks": ["rich-text"]
+  },
+  "rich-text": {
+    "props": {
+      "text": "**Hello, World!**",
+      "textPosition": "RIGHT"
+    }
   }
 }
